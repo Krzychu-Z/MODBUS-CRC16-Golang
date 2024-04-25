@@ -1,6 +1,6 @@
 # Fast MODBUS CRC 16-bit Algorithm implementation
 ## Requirements:
-Golang 1.19
+Golang 1.22.2
 
 References to install Golang: [here](https://go.dev/dl/)
 
