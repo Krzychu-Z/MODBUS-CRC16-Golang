@@ -110,3 +110,5 @@ func calculateCRCFast(data []byte) uint16 {
 
 	return crc
 }
+
+/*end of file*/
