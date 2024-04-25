@@ -1,0 +1,1 @@
+Fast MODBUS CRC 16-bit Algorithm implementation
